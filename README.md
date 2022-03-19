@@ -6,6 +6,7 @@
         - electricity and telecomunication of HaNoi university science and technology (HUST)
         - Devzone
         - WicomLab
+        - VNPT Technology
 ### Skill
   1. FrontEnd : Reactjs
   2. BackEnd : Nodejs
