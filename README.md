@@ -11,7 +11,6 @@
   1. FrontEnd : Reactjs , Nextjs
   2. BackEnd : Nodejs , SpringBoot
   3. Database : Mysql , MongoDb
-  4, CI/CD : git , Docker
-
+  4. CI/CD : Git , docker
 
 
