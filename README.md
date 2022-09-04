@@ -8,9 +8,10 @@
         - WicomLab
         - VNPT Technology
 ### Skill
-  1. FrontEnd : Reactjs
-  2. BackEnd : Nodejs
-  3. Database : Mysql
+  1. FrontEnd : Reactjs , Nextjs
+  2. BackEnd : Nodejs , SpringBoot
+  3. Database : Mysql , MongoDb
+  4, CI/CD : git , Docker
 
 
 
