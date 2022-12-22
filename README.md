@@ -1,16 +1,20 @@
-### About Me
-  1. FullName : Phung Van Sy
-  2. Date of Birth : 26/06/1999
-  3. Email: phungvansyhb@gmail.com
-  4. Working :  
-        - electricity and telecomunication of HaNoi university science and technology (HUST)
-        - Devzone
-        - WicomLab
-        - VNPT Technology
-### Skill
-  1. FrontEnd : Reactjs , Nextjs
-  2. BackEnd : Nodejs , SpringBoot
-  3. Database : Mysql , MongoDb
-  4. CI/CD : Git , docker
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+# Hi , I'm Phung Sy
+    Some keys of me : 
+    -  progressive
+    -  lowkey
+    -  healthy, books, footbal 
+    
+    Check out my block at : 
+
+
+## Contact me
+
+https://twitter.com/PhungSyy
+
+## My Stack
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phungvansyhb)](https://github.com/anuraghazra/github-readme-stats)
 
 
