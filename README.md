@@ -4,14 +4,9 @@
     Some keys of me : 
     -  progressive
     -  lowkey
-    -  healthy, books, footbal 
+    -  healthy, books, football 
     
-    Check out my block at : 
-
-
-## Contact me
-
-https://twitter.com/PhungSyy
+Check out my block at : [https://sypv.tech](https://sypv.tech)
 
 ## My Stack
 
