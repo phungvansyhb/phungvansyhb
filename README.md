@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-# Hi , I'm Phung Sy
+# Hi , I'm Phung Van Sy (Michel)
     Some keys of me : 
     -  progressive
     -  lowkey
@@ -8,6 +8,7 @@
     
 Check out my block at : [https://sypv.tech](https://sypv.tech)
 
-## My Stack
+# Read my CV here
+    
+ [My CV](https://www.figma.com/design/LWNV0G4jp6ZAx5lA3PPFFJ/CV-Frontend?node-id=0-1&p=f&t=oniVNym88kJIu7YM-0)
 
-<a href="https://cuthanh.com"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=phungvansyhb&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phungvansyhb&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" /></a>
